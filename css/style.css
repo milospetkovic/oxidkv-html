@@ -1,0 +1,39 @@
+header {
+  padding: 156px 0 0 0;
+}
+
+#mainNav {
+  background: #fff;
+}
+
+.navbar a {
+  color: #000;
+}
+
+.navbar a.active,
+.navbar a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.bottom-line {
+  border-bottom: 1px solid #000;
+}
+
+section {
+  padding: 80px 0;
+}
+
+.footer-bg-dark {
+  background: #000;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #ccc;
+  text-decoration: none;
+}
